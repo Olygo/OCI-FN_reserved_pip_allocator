@@ -1,12 +1,12 @@
 # OCI-FN_reserved_pip_allocator
 
-**OCI-FN_reserved_pip_allocator** is an OCI Function demonstrating how to automatically apply a reserved public PIP to compute instance after launch.
-This function can we use with any compute instance service, such as autoscaling group or single instances.
+**OCI-FN_reserved_pip_allocator** is an OCI Function demonstrating how to automatically apply a reserved Public IP to compute instance after launch.
+This function can be used with any compute instance service, such as autoscaling group or single instances.
 
 # Quick set up guide 
 
 Read the step by step guide to quickly set up your environment and deploy your function to OCI:
-[https://github.com/Olygo/OCI-FN_reserved_pip_allocator/raw/main/OCI_Function_QuickStart.pdf](https://github.com/Olygo/OCI-FN_reserved_pip_allocator/raw/main/OCI_Function_QuickStart.pdf)
+[OCI_Function_QuickStart.pdf](https://github.com/Olygo/OCI-FN_reserved_pip_allocator/raw/main/OCI_Function_QuickStart.pdf)
 
 # Function Behavior
 
